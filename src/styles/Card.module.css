@@ -1,0 +1,19 @@
+.card {
+  background-color: white;
+  padding: 20px;
+  border: 2px solid #00ced1; /* Turquoise border for shapes */
+  border-radius: 10px;
+}
+
+.card .number-letter {
+  color: #ffb6c1; /* Bubblegum pink for numbers and letters */
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.card .shape {
+  color: #00ced1; /* Turquoise for shapes */
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 10px; /* Add some spacing between number/letter and shape */
+}
